@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Shijie Zhou / Site Title"
+title                    : "Shijie Zhou "
 title_separator          : "-"
 name                     : &name "Shijie Zhou"
 description              : &description "Shijie Zhou's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "J0i1e/J0i1e.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Shijie Zhou"
+  pronouns         : # example: "he/him"  
+  bio              : ""
+  location         : "Wuhan"
+  employer         : "China University of Geosciences "
+  uri              : J0i1e.github.io
+  email            : "sjzhou0222@cug.edu.cn" 
 
   # Academic websites
   academia         : # URL
